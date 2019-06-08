@@ -4,10 +4,6 @@
     <div class="blogPost">
       <h1 v-html="$page.post.title" class="mb-4"/>
       <div class="meta">
-        <div class="box author">
-          <span class="label">Author</span>
-          <span class="author-name" v-text="$page.post.author"/>
-        </div>
         <div class="box date">
           <span class="label">Date</span>
           <div v-text="new Date($page.post.date).toLocaleDateString()"/>
@@ -18,6 +14,12 @@
         </div>
       </div>
       <BlogContent class="mt-5" :content="$page.post.content"/>
+      <div class="meta">
+        <div class="box author">
+          <span class="label">Source Author</span>
+          <span class="author-name" v-text="$page.post.author"/>
+        </div>
+      </div>
     </div>
   </Layout>
 </template>
