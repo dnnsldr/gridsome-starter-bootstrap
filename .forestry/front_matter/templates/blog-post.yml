@@ -1,6 +1,7 @@
 ---
 label: Blog post
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
@@ -17,3 +18,9 @@ fields:
 - type: file
   name: featuredimage
   label: Featured Image
+<<<<<<< HEAD
+=======
+  description: This is the featured image used as a full width hero
+pages:
+- blog/best-campervan-fridges-for-your-vanlife-adventure.md
+>>>>>>> 6391eddde4d22874a05f981fe787ea6ff6027813
