@@ -4,16 +4,17 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Post Title
 - type: textarea
   name: excerpt
-  label: excerpt
+  label: Post Excerpt
 - type: datetime
   name: date
-  label: date
+  label: Post Date
 - type: text
   name: author
-  label: author
+  label: Post Author
 - type: file
-  name: image
-  label: image
+  name: featured_image
+  label: Featured Image
+  description: This is the featured image used as a full width hero
