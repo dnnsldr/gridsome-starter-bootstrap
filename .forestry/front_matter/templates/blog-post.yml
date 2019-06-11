@@ -16,7 +16,7 @@ fields:
   name: author
   label: Post Author
 - type: file
-  name: featured_image
+  name: featuredimage
   label: Featured Image
   description: This is the featured image used as a full width hero
 pages:
