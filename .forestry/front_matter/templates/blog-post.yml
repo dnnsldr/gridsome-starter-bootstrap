@@ -19,3 +19,5 @@ fields:
   name: featured_image
   label: Featured Image
   description: This is the featured image used as a full width hero
+pages:
+- blog/best-campervan-fridges-for-your-vanlife-adventure.md
