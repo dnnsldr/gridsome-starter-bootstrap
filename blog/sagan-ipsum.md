@@ -1,12 +1,17 @@
 ---
 title: Best Campervan Fridges For Your Vanlife Adventure
-excerpt: If you’ve never ventured into the world of van life travel before then, you probably won’t know that fridges are a bit of a hot topic (or should I say cold topic?!). There is just SO much choice and, if you’re a complete beginner, then it can be challenging to know where to start.
-date: 2019-04-21 17:00:00 +0000
+excerpt: If you’ve never ventured into the world of van life travel before then, you
+  probably won’t know that fridges are a bit of a hot topic (or should I say cold
+  topic?!). There is just SO much choice and, if you’re a complete beginner, then
+  it can be challenging to know where to start.
+date: 2019-04-21T17:00:00.000+00:00
 author: Dennis
 featuredimage: "/uploads/space.svg"
----
 
+---
 Billions upon billions Tunguska event galaxies rich in mystery decipherment billions upon billions. Bits of moving fluff rings of Uranus made in the interiors of collapsing stars from which we spring bits of moving fluff star stuff harvesting star light. The ash of stellar alchemy a mote of dust suspended in a sunbeam kindling the energy hidden in matter take root and flourish star stuff harvesting star light are creatures of the cosmos.
+
+![](/uploads/coffee.svg)
 
 Tesseract something incredible is waiting to be known Cambrian explosion Flatland Jean-François Champollion rich in heavy atoms? At the edge of forever the ash of stellar alchemy shores of the cosmic ocean vastness is bearable only through love trillion white dwarf. Made in the interiors of collapsing stars finite but unbounded with pretty stories for which there's little good evidence gathered by gravity hearts of the stars a very small stage in a vast cosmic arena.
 
